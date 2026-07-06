@@ -9,7 +9,7 @@
 
 ### 拉取代码
 ```
-git clone https://github.com/jerryhu/course-schedule-agent
+git clone https://github.com/jerryhu/course-schedule-agent.git
 ```
 
 ### 配置API Key
